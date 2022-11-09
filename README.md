@@ -6,7 +6,7 @@ This repository contains a Jupyter Notebook to run in the [Amazon Neptune](https
 
 The __blog-dataset-rdf.zip__ file contains 500 Turtle files of sample [FHIR QuestionnaireResponse](https://www.hl7.org/FHIR/questionnaireresponse.html) resources following the RDF specification of [FHIR](http://hl7.org/fhir/). 
 
-The __Juypter notebook__ can be used in the Amazon Neptune workbench to run sample SPARQL queries on a graph containing the sample dataset.
+The Juypter notebook __analyze-fhir-questionnaire-responses-neptune.ipynb__ can be used in the Amazon Neptune workbench to run sample SPARQL queries on a graph containing the sample dataset.
 
 ## Usage
 
