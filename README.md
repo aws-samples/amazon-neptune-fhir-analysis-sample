@@ -1,11 +1,16 @@
-## My Project
+## Analyzing healthcare FHIR data with Amazon Neptune
 
-TODO: Fill this README out!
+This repository contains the necessary files to follow the walkthrough of the post on how to [Analyze healthcare FHIR data with Amazon Neptune](Link TBD).
 
-Be sure to:
+## Content
 
-* Change the title in this README
-* Edit your repository description on GitHub
+The __blog-dataset-rdf.zip__ file contains 500 Turtle files of sample FHIR QuestionnaireResponse resources following the RDF specification of FHIR. 
+
+The Juypter Notebook can be used in the Amazon Neptune workbench to run sample SPARQL queries on a graph containing the sample dataset.
+
+## Usage
+
+Refer to the post on how to [Analyze healthcare FHIR data with Amazon Neptune](Link TBD) for information on working with the data and Jupyter Notebook. 
 
 ## Security
 
