@@ -1,6 +1,6 @@
 ## Analyzing healthcare FHIR data with Amazon Neptune
 
-This repository contains a Jupyter Notebook to run in the [Amazon Neptune](https://aws.amazon.com/neptune/?nc1=h_ls) workbench and a sample dataset. The files are required to follow the walkthrough to [Analyze healthcare FHIR data with Amazon Neptune](Link TBD).
+This repository contains a Jupyter Notebook to run in the [Amazon Neptune](https://aws.amazon.com/neptune/?nc1=h_ls) workbench and a sample dataset. The files are required to follow the walkthrough to [Analyze healthcare FHIR data with Amazon Neptune](https://aws-blogs-prod.amazon.com/database/?p=29731).
 
 ## Content
 
